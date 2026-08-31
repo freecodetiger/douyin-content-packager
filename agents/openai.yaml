@@ -1,0 +1,4 @@
+interface:
+  display_name: "五平台文案与双版封面"
+  short_description: "字幕与自拍门禁，生成五平台 Markdown 及横竖双版封面"
+  default_prompt: "使用 $douyin-content-packager 检查我的字幕文件和正面自拍，生成 YouTube、B站、小红书、抖音、视频号发布文案并写入 Markdown；再给我 A/B/C 双比例封面方案，等我明确确认后并发生成 3:4 和 16:9 两张封面。"
